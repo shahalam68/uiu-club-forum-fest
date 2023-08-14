@@ -1,0 +1,18 @@
+.card-component{
+    background-color: bisque;
+    box-shadow: 3px 3px 3px 3px rgb(173, 190, 196);
+    color: mediumaquamarine;
+}
+.card-component img{
+    border-radius: 50%;
+    width: 150px;
+    margin-left: 25%;
+    margin-top: 15px;
+}
+.card-component button{
+    background-color: coral;
+    color: white;
+}
+.card-body-container{
+    margin-left: 30px;
+}

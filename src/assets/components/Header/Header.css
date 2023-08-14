@@ -1,0 +1,20 @@
+.header-container img{
+    width: 200px;
+    padding-left: 50px;
+    margin-left: 200px;
+}
+
+.header-container{
+    background-color: bisque;
+}
+.header-container h1{
+    margin-top: 10px;
+    color: Coral;
+}
+.header-container h3{
+    color: Coral;
+    font-weight: 600;
+}
+.header-container h4{
+    color: MediumAquaMarine;    
+}

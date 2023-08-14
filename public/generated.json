@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "name": "UIU Debate Club",
+    "members": 230,
+    "img": "https://i.postimg.cc/rphnZmRn/291962787-414506514024516-8969780192592252754-n.jpg",
+    "facebook": "https://www.facebook.com/UIU.Debate.Club/",
+    "dept": "DSA"
+  },
+  {
+    "id": 2,
+    "name": "UIU Business Club",
+    "members": 308,
+    "img": "https://i.postimg.cc/vZsNcCdz/306607280-5179916172119146-8716665195103540221-n.jpg",
+    "facebook": "https://www.facebook.com/uiu.bc/",
+    "dept": "BBA"
+  },
+  {
+    "id": 3,
+    "name": "UIU Electrical & Electronics Club",
+    "members": 430,
+    "img": "https://i.postimg.cc/NLhRPhxP/222381451-2289200511213582-101239188559806122-n.png",
+    "facebook": "https://www.facebook.com/uiueec/",
+    "dept": "EEE"
+  },
+  {
+    "id": 4,
+    "name": "UIU Cultural Club",
+    "members": 400,
+    "img": "https://i.postimg.cc/FFwqQ7Ww/305405414-484677103665568-6044425911708967037-n.jpg",
+    "facebook": "https://www.facebook.com/UIU.Cultural.club.uiucc/",
+    "dept": "DSA"
+  },
+  {
+    "id": 5,
+    "name": "UIU Theatre & Film Club",
+    "members": 220,
+    "img": "https://i.postimg.cc/VkmKYMjZ/319399409-593709482759283-3771990607856108722-n.jpg",
+    "facebook": "https://www.facebook.com/uiutfclub/",
+    "dept": "DSA"
+  },
+  {
+    "id": 6,
+    "name": "UIU Photography Club",
+    "members": 112,
+    "img": "https://i.postimg.cc/9FGx51qq/327291583-906518867033654-6602875996439844398-n.jpg",
+    "facebook": "https://www.facebook.com/UIUPC/",
+    "dept": "DSA"
+  },
+  {
+    "id": 7,
+    "name": "UIU Computer Club",
+    "members": 302,
+    "img": "https://i.postimg.cc/ZRBcfLSn/359803562-756144593180254-7904594021449865491-n.png",
+    "facebook": "https://www.facebook.com/uiuccl/",
+    "dept": "CSE"
+  },
+  {
+    "id": 8,
+    "name": "UIU Social Services Club",
+    "members": 130,
+    "img": "https://i.postimg.cc/sfG6K3jm/313289507-483448957150874-7104445913135003367-n.jpg",
+    "facebook": "https://www.facebook.com/uiussc/",
+    "dept": "DSA"
+  },
+  {
+    "id": 9,
+    "name": "UIU MUN Club",
+    "members": 233,
+    "img": "https://i.postimg.cc/c1vjjQmQ/277780514-431044248826948-4590157611136725096-n.jpg",
+    "facebook": "https://www.facebook.com/MUNClubUIU/",
+    "dept": "DSA"
+  },
+  {
+    "id": 10,
+    "name": "UIU Robotics",
+    "members": 242,
+    "img": "https://i.postimg.cc/FR7PM4j9/300785735-1716552275384080-292784315659304432-n.jpg",
+    "facebook": "https://www.facebook.com/uiurobotics/",
+    "dept": "EEE"
+  },
+  {
+    "id": 11,
+    "name": "UIU App Forum",
+    "members": 237,
+    "img": "https://i.postimg.cc/8zmnWwpV/301884218-404145688500432-5727585256200225277-n.jpg",
+    "facebook": "https://www.facebook.com/uiuappf/",
+    "dept": "CSE"
+  },
+  {
+    "id": 12,
+    "name": "UIU Sports Club",
+    "members": 230,
+    "img": "https://i.postimg.cc/vHRPNCDs/309197498-477945844380121-494525155528417494-n.jpg",
+    "facebook": "https://www.facebook.com/UIU.MF/",
+    "dept": "BBA"
+  },
+  {
+    "id": 13,
+    "name": "UIU Finance Forum",
+    "members": 120,
+    "img": "https://i.postimg.cc/Mp5dXT56/1560405456246.jpg",
+    "facebook": "https://www.facebook.com/uiuinfo/posts/2913447312229199/?paipv=0&eav=AfYhyua5_IQhtK3SZWInHitDzsJRXoL1x96W7ibQxaTkmUfrvG7thmQ3FBiVOPesdkM&_rdr",
+    "dept": "BBA"
+  },
+  {
+    "id": 14,
+    "name": "UIU HR Forum",
+    "members": 245,
+    "img": "https://i.postimg.cc/SKtd7vHH/346073596-1033279714327299-8922569341229558376-n.jpg",
+    "facebook": "https://www.facebook.com/uiuhrforum/",
+    "dept": "BBA"
+  }
+]
